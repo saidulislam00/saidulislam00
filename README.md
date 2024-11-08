@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saidulislam00
-- 👀 I’m interested in Machine Learning
+- I’m interested in Deep Learning
 - 🌱 I’m currently learning Electrical and Electronics Engineering
-- 💞️ I’m looking to collaborate on ML projects
+- 💞️ I’m looking to collaborate on DL projects
 - 📫 Reach me on [Facebook](https://www.facebook.com/profile.php?id=100021414514349)
 - Follow me on [Twitter](https://twitter.com/MdSaidulislam43)
 
